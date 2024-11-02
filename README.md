@@ -1,6 +1,6 @@
 # Test App Created By LiuQing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with Create React App, TailwindCSS, ApexChart, 
 
 ## Available Scripts
 
@@ -15,4 +15,6 @@ $ npm run start
 
 ## Screenshot
 
-![img](https://apexcharts.com/wp-content/uploads/2018/09/vue-donut-chart.png)
+![img](https://raw.githubusercontent.com/axdevts/React-Chart-Visualization/main/public/screenshot.png)
+
+
